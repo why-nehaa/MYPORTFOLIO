@@ -6,7 +6,6 @@ import emailjs from "emailjs-com";
 const githubLogo = "/github.png";
 const linkedinLogo = "/linkedin.png";
 const gmailLogo = "/gmail.png";
-const whatsappLogo = "/whatsapp.png";
 const instagramLogo = "/insta.png";
 const facebookLogo = "/facebook.png";
 
@@ -72,7 +71,6 @@ export default function Contact() {
     { img: githubLogo, title: "GitHub", link: "https://github.com/why-nehaa" },
     { img: linkedinLogo, title: "LinkedIn", link: "https://www.linkedin.com/in/neha-kumari-817nk/" },
     { img: gmailLogo, title: "Email", link: "nehamahato817@gmail.com" },
-    { img: whatsappLogo, title: "WhatsApp", link: "https://wa.me/+918340567197" },
     { img: instagramLogo, title: "Instagram", link: "https://www.instagram.com/nehaa.diaryy/" },
   ];
 
