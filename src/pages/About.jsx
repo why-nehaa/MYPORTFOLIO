@@ -185,7 +185,7 @@ const AboutMe = () => {
                   <strong>D.A.V Public School, Bistupur </strong> — Jamshedpur , Jharkhand 
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  CBSE Board | Percentage: 57%
+                  CBSE Board 
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2024</p>
               </div>
